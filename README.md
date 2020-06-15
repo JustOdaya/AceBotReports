@@ -6,7 +6,7 @@ Simply go into the [issues tab](https://github.com/ItsJustIce02/FirebotReports/i
 Please make sure to add the correct labels.
 
 ## Current issues:
-- [] Couple of commands aren't in the f!help menu | TB
+- [ ] Couple of commands aren't in the f!help menu | TB
 
 ## Q&A
 
