@@ -1,3 +1,7 @@
+> # **NOTICE**
+Due to hosting issues, the bot is going to be off for a while.
+The bot isn't gone. It will come back. 
+
 # **Welcome to Firebot reports**
 
 Here is where you can report issues with Firebot or ask a general question
