@@ -1,6 +1,3 @@
-> # **NOTICE**
-Due to hosting issues, the bot is going to be off for a while.
-The bot isn't gone. It will come back. 
 
 # **Welcome to Firebot reports**
 
@@ -10,7 +7,8 @@ Simply go into the [issues tab](https://github.com/ItsJustIce02/FirebotReports/i
 Please make sure to add the correct labels.
 
 ## Current issues:
-- [ ] Couple of commands aren't in the f!help menu | TB
+- No issues at the moment.
+If there are any issues, they will be put here.
 
 ## Q&A
 
