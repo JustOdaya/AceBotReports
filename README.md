@@ -1,9 +1,10 @@
 
-# **Welcome to Firebot reports**
+# **Welcome to AceBot reports**
 
-Here is where you can report issues with Firebot or ask a general question
+Here is where you can report issues with AceBot or ask a general question
+Currently the bot is being redone. Ace is replacing Firebot entirely.
 
-Simply go into the [issues tab](https://github.com/ItsJustIce02/FirebotReports/issues) and write your issue or question.
+Simply go into the [issues tab](https://github.com/ItsJustIce02/AceBotReports/issues) and write your issue or question.
 Please make sure to add the correct labels.
 
 ## Current issues:
@@ -27,7 +28,7 @@ If you write about an issue make sure it isn't listed under Current issues or in
 ###### What if I forget or don't add a label?
 I personally will add the tags. Don't worry.
 
-## Other firebot related things
+## Other AceBot related things
 To get the bot for yourself, you can do so [by going to the top.gg page and clicking [Invite]](https://top.gg/bot/465737273909182474).
 
 Join our [official discord for direct support](https://discord.com/invite/NxTKzcg).
