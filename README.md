@@ -31,6 +31,9 @@ I personally will add the tags. Don't worry.
 
 ## Other AceBot related things
 AceBot is currently under the testing phase.
-It will release when everything is seemingly good.
+It will release when everything is seemingly good. 
+
+When creating an issue, please make mention of your server id, your server id, and any other additional information.
+
 
 [Follow our twitter](https://twitter.com/dsAceBot) for updates and statuses.
