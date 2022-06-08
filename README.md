@@ -7,6 +7,10 @@ Currently the bot is being redone. Ace is replacing Firebot entirely.
 Simply go into the [issues tab](https://github.com/ItsJustIce02/AceBotReports/issues) and write your issue or question.  
 [**Check our status page before reporting**](http://status.dsacebot.ga/)
 
+## Under upgrading
+AceBot is being slowly updated.
+View [the roadmap](https://github.com/JustOdaya/AceBotReports/discussions/4) for more info and progress.
+
 ## Current issues:
 - No issues at the moment.
 If there are any issues, they will be put here.
