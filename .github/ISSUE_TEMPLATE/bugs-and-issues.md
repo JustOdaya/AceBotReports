@@ -10,6 +10,8 @@ assignees: ''
 # Bug/Issue report  
 Are you facing an issue with AceBot? Please describe in good enough detail about the issue.  
 ---
+If you are using AceBot Test Beta or Alpha, please add their respective labels.
+
 
 ### What is the command or feature?
 Replace this line with the feature you're having trouble with
