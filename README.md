@@ -4,7 +4,8 @@
 Here is where you can report issues with AceBot or ask a general question
 Currently the bot is being redone. Ace is replacing Firebot entirely.
 
-Simply go into the [issues tab](https://github.com/ItsJustIce02/AceBotReports/issues) and write your issue or question.  
+Simply go into the [issues tab](https://github.com/ItsJustIce02/AceBotReports/issues) and use the bug reporting template.  
+Additionally you can suggest a feature or ask a simple question.  
 [**Check our status page before reporting**](http://status.dsacebot.ga/)
 
 ## Under upgrading
