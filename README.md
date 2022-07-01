@@ -1,6 +1,8 @@
 
 # **Welcome to AceBot reports**
 
+![Main version](https://img.shields.io/badge/Version%20main-1.0.0-blue) ![Test Beta](https://img.shields.io/badge/Version%20main-1.2.3--pre1-blue) ![Test Alpha](https://img.shields.io/badge/Version%20Alpha-2.0.0-orange)
+
 Here is where you can report issues with AceBot or ask a general question
 Currently the bot is being redone. Ace is replacing Firebot entirely.
 
