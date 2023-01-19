@@ -29,11 +29,11 @@ Such as doing an emote command refuses to work, or some kind of small issue.
 - Don't be a jerk.
 - Don't spam
 - Don't make duplicate issues.
-This is subject to change as this is a "for now" list.
-If you write about an issue make sure it isn't listed under Current issues or in another thread.
+  This is subject to change as this is a "for now" list.
+  If you write about an issue make sure it isn't listed under Current issues or in another thread.
 
-###### What if I forget or don't add a label?
-I personally will add the tags. Don't worry.
+  ###### What if I forget or don't add a label?
+  I personally will add the tags. Don't worry.
 
 
 ## Other Scarlett related things
