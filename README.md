@@ -1,18 +1,18 @@
 
-# **Welcome to AceBot reports**
+# **Welcome to the bug reporting git for Scarlett**
 
-![Main version](https://img.shields.io/badge/Version%20main-1.0.0-blue) ![Test Beta](https://img.shields.io/badge/Version%20main-1.2.3--pre1-blue) ![Test Alpha](https://img.shields.io/badge/Version%20Alpha-2.0.0-orange)
+![Main](https://img.shields.io/badge/Version%20main-1.0.0-blue) ![TBeta](https://img.shields.io/badge/Version%20main-1.2.3--pre1-blue) ![Alpha](https://img.shields.io/badge/Version%20Alpha-2.0.0-orange)
 
 Here is where you can report issues with AceBot or ask a general question
 Currently the bot is being redone. Ace is replacing Firebot entirely.
 
-Simply go into the [issues tab](https://github.com/ItsJustIce02/AceBotReports/issues) and use the bug reporting template.  
+Simply go into the [issues tab](https://github.com/ItsJustIce02/ScarlettBugs/issues) and use the bug reporting template.  
 Additionally you can suggest a feature or ask a simple question.  
 [**Check our status page before reporting**](http://status.dsacebot.ga/)
 
 ## Under upgrading
 AceBot is being slowly updated.
-View [the roadmap](https://github.com/JustOdaya/AceBotReports/discussions/4) for more info and progress.
+View [the roadmap](https://github.com/JustOdaya/ScarlettBugs/discussions/4) for more info and progress.
 
 ## Current issues:
 - No issues at the moment.
@@ -36,11 +36,11 @@ If you write about an issue make sure it isn't listed under Current issues or in
 I personally will add the tags. Don't worry.
 
 
-## Other AceBot related things
+## Other Scarlett related things
 AceBot is currently under the testing phase.
 It will release when everything is seemingly good. 
 
 When creating an issue, please make mention of your server id, your server id, and any other additional information.
 
 
-[Follow our twitter](https://twitter.com/dsAceBot) for updates and statuses.
+[Follow our twitter](https://twitter.com/ScarlettDiscord) for updates and statuses.
