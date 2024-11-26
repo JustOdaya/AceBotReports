@@ -1,6 +1,6 @@
 ---
 name: Bugs and issues
-about: Report bugs relating to AceBot and its services.
+about: Report bugs relating to Scarlett
 title: ''
 labels: Bug, Unconfirmed
 assignees: ''
@@ -8,10 +8,8 @@ assignees: ''
 ---
 
 # Bug/Issue report  
-Are you facing an issue with AceBot? Please describe in good enough detail about the issue.  
+Are you facing an issue with Scarlett? Please describe in good enough detail about the issue.  
 ---
-If you are using AceBot Test Beta or Alpha, please add their respective labels.
-
 
 ### What is the command or feature?
 Replace this line with the feature you're having trouble with
@@ -20,11 +18,7 @@ Replace this line with the feature you're having trouble with
 Describe in detail what is happening and what isn't supposed to happen.
 
 ### What are steps to reproduce this issue?
-Give us steps on how to reproduce this bug.
-i.e.
-- Use this command
-- Press this button
-- Bad thing happened.
+
 
 ### If applicable, what is your server's id?
 You can get this by right clicking or tapping and holding on your server's icon.
